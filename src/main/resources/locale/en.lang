@@ -1,0 +1,27 @@
+[tile]
+exampletile=Example Tile
+
+[object]
+exampleobject=Example Object
+
+[item]
+exampleitem=Example Item
+examplesword=Example Sword
+examplestaff=Example Staff
+chickenegg=Chicken Egg
+blackwool=Black Wool
+
+[itemtooltip]
+examplestafftip=Shoots a homing, piercing projectile
+chickenEggItem=Natures super food
+blackwool=its like wool but black
+
+[mob]
+examplemob=Example Mob
+blacksheep=Black Sheep
+browncow=Brown Cow
+chicken=Chicken
+
+
+[buff]
+examplebuff=Example Buff
